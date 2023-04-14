@@ -1,4 +1,4 @@
-install:
+default:
 	cp ./xinitrc ~/.xinitrc
 	sudo make install -C dmenu
 	sudo make install -C dwm
