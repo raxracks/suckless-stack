@@ -1,0 +1,3 @@
+flameshot &
+slstatus &
+exec dwm
